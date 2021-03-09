@@ -1,3 +1,3 @@
 # Esto es un archivo Readme
 
-Hola mundo
+Este es un archivo readme de ejemplo
